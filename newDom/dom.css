@@ -12,8 +12,8 @@ h1{
 
 .list-items {
     text-align: center;
-    list-style-type: none; /* Remove bullet points */
+    list-style-type: none; 
     padding: 10px;
-    border-bottom: 1px solid #ddd; /* Add a bottom border */
+    border-bottom: 1px solid #ddd; 
 }
 
